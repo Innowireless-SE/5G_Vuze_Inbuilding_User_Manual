@@ -1,17 +1,22 @@
+
+		
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## 바꿈바 오666666666666666666666
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+$$스랭스랭
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/1.png?raw=true)
+
+ddd
+C:\Users\INNO-A-1398-\5gin\docs\image
+
+
+<p align = "left"><img src = "https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png" width = "100"></p>
+
+
+
+![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/2.png?raw=true)
