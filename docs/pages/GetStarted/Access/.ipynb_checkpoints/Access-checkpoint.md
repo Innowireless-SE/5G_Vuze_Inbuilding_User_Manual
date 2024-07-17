@@ -11,6 +11,6 @@ This chapter illustrates how to register new user account and login to XCAP-Vuze
 
 
 <p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/1-2.png?raw=true">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/1-1.png?raw=true">
 </p>
 ######<center>[XCAP-Vuze 5G Inbuilding Log-in Page]</center>  

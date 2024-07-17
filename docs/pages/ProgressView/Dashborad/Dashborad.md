@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Progress View 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Progress View displays Dashboard, Building List(IBWAVE), Building List(DAS) Harmony List, Error Log List 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Dashboard
+On the Dashboard, User can check the overall monthly IBWAVE & DAS report status and IBWAVE & DAS report status by circle. Additionally, you can check the SAP ID, Building Name, Circle, Result, and Report to Siteforge of the report for the selected period at the bottom of the Dashboard.

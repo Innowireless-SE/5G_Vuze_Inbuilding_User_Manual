@@ -14,7 +14,8 @@ User can access to XCAP-Vuze 5G Inbuilding with an authenticated ID/PW.
 
 
 
-1.	Input ID and PW in XCAP-Vuze 5G inbuilding log-in page.
-2.	Click [LOGIN] button.
-3.	Check the boxes [Remember ID] and [Remember PW] to save ID and PW for the next time.
-4.	XCAP-Vuze 5G Inbuilding Main window appears.
+1.	Input ID and PW in XCAP-Vuze 5G inbuilding log-in page.<br>
+2.	Click [LOGIN] button.<br>
+3.	Check the boxes [Remember ID] and [Remember PW] to save ID and PW for the next time.<br>
+4.	XCAP-Vuze 5G Inbuilding Main window appears.<br>
+
