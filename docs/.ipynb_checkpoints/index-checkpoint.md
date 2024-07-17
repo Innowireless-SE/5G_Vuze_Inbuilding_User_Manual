@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/1-1.png?raw=true">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-1.png?raw=true">
 </p>
 ######<center>[XCAP-Vuze 5G Inbuilding Log-in Page]</center>  
 
@@ -21,7 +21,7 @@ There are Progress View, IBWAVE Mode, DAS Mode, Monitoring, Setting, User Manage
 Some features are not available to control depending on Role type
 
 <p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/1-0.png?raw=true">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-0.png?raw=true">
 </p>
 
 ######<center>[The creation of user account window]</center>  
