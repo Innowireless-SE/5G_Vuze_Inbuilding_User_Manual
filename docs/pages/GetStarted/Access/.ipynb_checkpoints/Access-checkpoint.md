@@ -1,22 +1,8 @@
 
-		
-# Welcome to MkDocs
+# Getting Started
 
+This chapter illustrates how to register new user account and login to XCAP-Vuze 5G Inbuilding via Chrome browser with GUI information.
 
-## 바꿈바 오666666666666666666666
-
-
-$$스랭스랭
-
-
-![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/1.png?raw=true)
-
-ddd
-C:\Users\INNO-A-1398-\5gin\docs\image
-
-
-<p align = "left"><img src = "https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png" width = "100"></p>
-
-
-
-![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/2.png?raw=true)
+## Accessing to XCAP-Vuze 5G Inbuilding
+1.	Access to XCAP-Vuze 5G Inbuilding by using the address bar at the top of Chrome page.
+2.	XCAP-Vuze 5G Inbuilding Log-in page appears.
