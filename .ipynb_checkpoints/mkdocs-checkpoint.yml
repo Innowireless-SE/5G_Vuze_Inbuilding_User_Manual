@@ -20,3 +20,9 @@ nav :
         - Harmony List  : pages/ProgressView/HarmonyList/HarmonyList.md
         - Error Log List  : pages/ProgressView/ErrorLogList/ErrorLogList.md
 
+    
+  - IBWAVE :
+        - Report List  : pages/IBWAVE/ReportList/IBWAVE_ReportList.md
+        - Map  : pages/IBWAVE/Map/IBWAVE_Map.md
+        - Brief View : pages/IBWAVE/BriefView/IBWAVE_BriefView.md
+

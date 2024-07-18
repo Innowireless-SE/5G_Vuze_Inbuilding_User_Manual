@@ -1,22 +1,11 @@
+# Progress View 
 
-		
-# Welcome to MkDocs
-
-
-## 바꿈바 오666666666666666666666
+## Building List(DAS)
+To display building information (Project, Building Name, Status, City, Address, No of Floors) along with synchronized devices to the building. User can check the status of each project and view the overall measurement progress of the project in the Pie graph at the bottom.
 
 
-$$스랭스랭
-
-
-![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/1.png?raw=true)
-
-ddd
-C:\Users\INNO-A-1398-\5gin\docs\image
-
-
-<p align = "left"><img src = "https://github.com/euiminnn/image-upload/blob/master/pduck-cutout.png" width = "100"></p>
-
-
-
-![대체 메](https://github.com/Munki-cho/5gin/blob/master/docs/image/2.png?raw=true)
+-	To search DAS building report Status
+    1.	Change the date by one day using the buttons on the left and right of the calendar 
+    2. Search the report by selecting the period using the calendar in the blue box.
+    3. Additionally, search the report through specific SAP ID, Building Name, Circle, Result, and Report to Siteforge filters for the selected period.
+ 

@@ -11,49 +11,31 @@ On the Dashboard, User can check the overall monthly IBWAVE/DAS report status an
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/ProgressView/2-1-1.png?raw=true">
 </p>
 
-Report List section displays detailed information of each report, monitors status of report file publication and manually publishes and downloads report file.
 
 
 
 
-#### Report Status
 
-Report publication status is shown in bar graphs. 
-Total and Daily Report Status is shown if mouse- over the total and daily report in bar graph. (Green – Complete, Red – Fail, Navy (Default) – Waiting)
-
-<p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/ProgressView/2-1-2.png?raw=true">
+1.	To search report by month
+      <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/ProgressView/2-2-2.png?raw=true">
 </p>
+    - a.	Select [Month] from Category
+    - b.	Select the specific month Users want to check
+    - c.	Users can check the data status by date of the selected month in a bar graph, and on the right of the dashboard,
+      users can check the overall report status for selected month in a pie graph.
 
+2.	To search report by Circle 
+       <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/ProgressView/2-2-3.png?raw=true">
+</p>
+    - a.	Select [Circle] from Category
+    - b.	check statistics by circle for all reports, and on the right of the dashboard, users can check the overall report status for each circle
 
-- a.	Total : Sum of all reports that have been published up to now.
-- b.	Daily : Initial screen displays report publication statistics of today. When searching based on date, report statistics on the date is displayed.
-
-
-#### Searching Report
-
-Reports are searched by Date, SAP ID, Building or Circle 
-Options for displaying the report include filtering by date and displaying the entire report. Select the radio button to see reports by date or the entire report. the filtered reports are listed up in Report List.
-
-1. Select whether to view reports by date or the entire report
-    - a.	If you are looking at data by date, click radio button(red)
-    - b.	If you want to see the entire data, click radio button (blue)
-
-
-  
-2. To search report by date
-    - a.	Configure date in calendar or using left and right date buttons. 
-    - b.	Dates with data are marked in red in calendar(green).
-
-3. To search entire report 
-     - a.	Select ‘All Dates’ radio button.
-  
-4. To search report by SAP_ID, Building, or Circle.
-    - a.	After selecting whether to view the report by date or the entire report,
-      User can search by searching for the name of SAP_ID, Building, or Circle.
-    - b.	Click on SAP_ID dropdown list, select SAP_ID, Building or Circle.
-    - c.	Click on search button to find report of specific SAP ID, Building or Circle.
-    - d.	For searches, User can enter only part of the name, instead of entering the full name.
-      Ex) SAP ID Name : I-MU-MUMB-ISC-0658 (searching like ‘0658’ possible)
-
+3.	To search report by test date
+ 
+    - a.	Change the date by one day using the buttons on the left and right of the calendar in the red box.
+    - b.	Search the report by selecting the period using the calendar in the blue box.
+    - c.	Additionally, search the report through specific SAP ID, Building Name, Circle, Result, and Report to Siteforge filters for the selected period.
+    - d.	Export datas to Excel file by using [Export] button
 
