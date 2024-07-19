@@ -22,11 +22,11 @@ User Account is created in XCAP-Vuze 5G Inbuilding login page.
 
 |Item|	Description|
 |:----------:|:----------|
-|User Name|	Input user’s name.|
+| User Name |	Input user’s name.|
 |Password|	Input Password to use. must be at least 10 characters long|
 |Re-Password	|Input the confirm password to catch any typos.|
-|Email	|Input user’s e-mail.|
-|Phone Number|	Input user’s phone number.|
+|Email	|Input user’s e-mail. |
+|Phone Number|	Input user’s phone number.  |
 |Company	|Select your company.|
 |Circle	|Select your circle.|
 |OTP|	Click the Send button, sending the Auth Code to your input e-mail ID.|

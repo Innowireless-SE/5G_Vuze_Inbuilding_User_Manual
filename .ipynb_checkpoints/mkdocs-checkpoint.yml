@@ -2,6 +2,15 @@ site_name: 5G Vuze Inbuilding User Manual
 
 theme: 
     name: material
+    font:
+      text: Roboto   
+
+    palette:
+      scheme: slate
+      primary: light green
+      accent: light blue
+  
+
 
 
 nav :
@@ -25,4 +34,30 @@ nav :
         - Report List  : pages/IBWAVE/ReportList/IBWAVE_ReportList.md
         - Map  : pages/IBWAVE/Map/IBWAVE_Map.md
         - Brief View : pages/IBWAVE/BriefView/IBWAVE_BriefView.md
+
+    
+  - DAS :
+        - Report List  : pages/DAS/ReportList/DAS_ReportList.md
+        - Map  : pages/DAS/Map/DAS_Map.md
+        - Brief View : pages/DAS/BriefView/DAS_BriefView.md
+
+    
+  - Monitoring : pages/Monitoring/Monitoring_Page.md
+
+    
+  - Setting :
+        - Scenario  : pages/Setting/Scenario.md
+        - FTP List  : pages/Setting/FTP_List.md
+
+  - UserManagement : pages/UserManagement/UserManagement.md
+  
+
+
+
+
+
+
+
+
+        
 
