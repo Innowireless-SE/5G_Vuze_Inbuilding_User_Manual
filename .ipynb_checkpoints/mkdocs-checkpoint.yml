@@ -6,9 +6,9 @@ theme:
       text: Roboto   
 
     palette:
-      scheme: slate
-      primary: light green
-      accent: light blue
+      scheme: default
+      primary: cyan
+      accent: deep purple
   
 
 
