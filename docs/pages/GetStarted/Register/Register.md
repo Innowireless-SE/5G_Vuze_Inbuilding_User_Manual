@@ -15,7 +15,7 @@ User Account is created in XCAP-Vuze 5G Inbuilding login page.
 <p align="center">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-2.png?raw=true">
 </p>
-######<center>[The creation of user account window]</center>  
+######<center>[The creation of user account]</center>  
 
 
 <center> 
