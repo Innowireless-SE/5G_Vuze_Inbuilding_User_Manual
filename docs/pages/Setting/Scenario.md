@@ -1,11 +1,32 @@
-# Progress View 
+# Setting
 
-## Building List(DAS)
-To display building information (Project, Building Name, Status, City, Address, No of Floors) along with synchronized devices to the building. User can check the status of each project and view the overall measurement progress of the project in the Pie graph at the bottom.
+## Scenario 
+
+To display the currently applied scenario for log measurement and displays the functions to upload, change, download, and delete the scenario. This menu is only visible to Admin accounts.
+
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-1.png?raw=true">
+</p>
 
 
--	To search DAS building report Status
-    1.	Change the date by one day using the buttons on the left and right of the calendar 
-    2. Search the report by selecting the period using the calendar in the blue box.
-    3. Additionally, search the report through specific SAP ID, Building Name, Circle, Result, and Report to Siteforge filters for the selected period.
+
+
+- Current Scenario - 	Display Current applied scenario file at the top of the Scenario tab.
+- [History]	- The history of applied scenarios is displayed in most recent order.
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-1.png?raw=true">
+</p> 
+- [Upload]	- Users can perform scenario .call file uploading in the Scenario tab.
+	1. Select the [Upload] button at the top right of the scenario tab.
+	2. Select the [Add] button and put scenario .call file in Setting File Upload screen.
+	3. Select the [Upload] button next to [Add] button in Setting File Upload screen.
+	4. Check in the Scenario list whether the selected .call file has been uploaded or not. 
+ 
+
+- Time	- The Time column is the time when the first scenario file was uploaded.
+- File Name	- File Name is the file name of the uploaded file.
+- [Select]	- Users can select the scenario user wants to apply from the uploaded scenario list.
+- [Download]	- Users can download scenarios from uploaded scenario list.
+- [Delete]	- Users can delete scenarios from uploaded scenario list.
+- Memo	- Users can write a memo when uploading a new scenario.
  

@@ -1,0 +1,8 @@
+body {
+    font-size: 25px; 
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 30em; /* 예시: 기본보다 작은 크기로 설정 */
+}

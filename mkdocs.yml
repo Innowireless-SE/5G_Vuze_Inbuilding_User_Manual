@@ -1,18 +1,30 @@
 site_name: 5G Vuze Inbuilding User Manual
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox    
+
+theme:
+
+
+
 theme: 
     name: material
+    logo: images/logo.png   
     extra_css : 
         - theme/custom.css
- 
     font:
       text: Roboto   
-
     palette:
       scheme: default
       primary: cyan
       accent: deep purple
-  
+
+
+
 
 
 
