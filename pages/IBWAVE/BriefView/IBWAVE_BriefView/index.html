@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#welcome-to-mkdocs" class="md-skip">
+        <a href="#breif-view" class="md-skip">
           Skip to content
         </a>
       
@@ -617,18 +617,60 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Commands
+      Summary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Summary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-floor-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Floor plan
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-rf-info" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. RF Info
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kpi-result" class="md-nav__link">
+    <span class="md-ellipsis">
+      KPI Result
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
+  <a href="#event-list" class="md-nav__link">
     <span class="md-ellipsis">
-      Project layout
+      Event List
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#file-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      File List
     </span>
   </a>
   
@@ -906,18 +948,60 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Commands
+      Summary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Summary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-floor-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Floor plan
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-rf-info" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. RF Info
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kpi-result" class="md-nav__link">
+    <span class="md-ellipsis">
+      KPI Result
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
+  <a href="#event-list" class="md-nav__link">
     <span class="md-ellipsis">
-      Project layout
+      Event List
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#file-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      File List
     </span>
   </a>
   
@@ -938,21 +1022,113 @@
                   
 
 
-<h1 id="welcome-to-mkdocs">Welcome to MkDocs</h1>
-<p>For full documentation visit <a href="https://www.mkdocs.org">mkdocs.org</a>.</p>
-<h2 id="commands">Commands</h2>
+<h1 id="breif-view">Breif View</h1>
+<p>Brief View section is displaying detailed and summarized data under statistical tabs of Summary, KPI Result, Event List, File List.</p>
+<h2 id="summary">Summary</h2>
+<h3 id="1-floor-plan">1. Floor plan</h3>
+<p>In Floor Info, User can get information about reports for each floor of the selected SAP_ID, log reprocess, issue reports, download reports.</p>
 <ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
-<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
-<li><code>mkdocs build</code> - Build the documentation site.</li>
-<li><code>mkdocs -h</code> - Print help message and exit.</li>
+<li>
+<p>Floor -   Measured floor. </p>
+</li>
+<li>
+<p>Freq.Band - Test Frequency Band.</p>
+</li>
+<li>
+<p>No.of Small Cell -    The number of Small Cell</p>
+</li>
+<li>
+<p>Upload Status : Displaying floor Report Status </p>
+<ol>
+<li>When all files are uploaded, the column is shown as [Complete].</li>
+<li>When all files are not uploaded completely, the column is shown as [Waiting].</li>
+</ol>
+</li>
+<li>
+<p>Report </p>
+<ol>
+<li>Button is activated only when report is published. In case there is published report :</li>
+<li>When the test result in Report is [Pass], the column shows [Pass] button to download. When the test result in Report is [Fail], the column shows [Fail] button to download. While re-publishing report by using [Re-process] button, the column shows [Reprocessing].</li>
+<li>In case there is no published report :<ul>
+<li>The column shows in blank. When errors are happened during file converting, [error] is shown. When trying to publish report by force by using [Issue] button, the column shows [Issuing].</li>
 </ul>
-<h2 id="project-layout">Project layout</h2>
-<pre><code>mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-</code></pre>
+</li>
+<li>When this button is in Waiting or Issuing status, user can click the button to see the Report Waiting List. It shows current list of reports that are waiting to be issued.</li>
+</ol>
+</li>
+<li>
+<p>Publish Report</p>
+<ol>
+<li>[Issue] button appears to publish report manually with updated cellref, BSP, drive test route, and cluster boundary information.</li>
+<li>User can decide whether to process new report nad sent to Siteforge or process only the report. This option is only available when file list is complete.</li>
+<li>[Issue] button disappears while publishing report and compiling DB for Map analysis after clicking [Issue] button.</li>
+<li>This function is only available to admin and team manager account.</li>
+</ol>
+</li>
+<li>
+<p>Re-process    Reprocesses the selected log files. Report can be re-published with the reprocessed measurement file.</p>
+</li>
+<li>
+<p>[Report Information]  Displays the report information of the selected SAP ID. Shows the report status, Band, number of log files for each scenario, and report creation time.</p>
+</li>
+<li>
+<p>[Re-Process All]  Reprocesses All log files.</p>
+</li>
+</ul>
+<h3 id="2-rf-info">2. RF Info</h3>
+<p>RF Info shows the 5% and 95% median RF values for the corresponding floor's RSRP, RSRQ, SINR, DL MAC Throughput, UL MAC Throughput, and Tx Power values.</p>
+<h2 id="kpi-result">KPI Result</h2>
+<p>KPI Result tab displays KPI information of report selected in Report List in table and displays the Target Value  and the results of all floors at once.</p>
+<h2 id="event-list">Event List</h2>
+<p>Event List tab displays all call events encountered during IBWAVE Mode test. The call events including event can be filtered in table by clicking Filter icon of Event Name.</p>
+<ul>
+<li>Floor -   Floor where the event occurred</li>
+<li>Issued Time -     Event time when the event occurred</li>
+<li>Event name    - Display event name. To filter and display particular event names only, click. Filter icon and select the checkboxes of desired event names.</li>
+<li>Scenario  - Display scenario name applied for the log file.</li>
+<li>PCI   - Display PCI where the event occurred.</li>
+<li>RSRP  - Display SINR at the location where the event occurred.</li>
+<li>SINR  - Display RSRP at the location where the event occurred.</li>
+<li>Analysis  - Process detailed analysis for the event in a separate screen. Button names shows detail analysis status.<ol>
+<li>When clicking [Ready] button, detail analysis is started to process displaying [In Prog] button, and the button is turned to [View] when it is completed.</li>
+<li>[View] button opens Detail Analysis screen, and processes detailed analysis of log file.</li>
+<li>[Ready]: Standing by for detail analysis.</li>
+<li>[In prog]: Processing detail analysis is in progress.</li>
+<li>[View]- Processed detailed analysis information is monitored in separate screen. For details of detailed analysis in a separate screen, see Detail Analysis.</li>
+<li>[Error]- Error happened during processing detailed analysis. Click Error</li>
+<li>button and detailed analysis will be processing again.</li>
+</ol>
+</li>
+<li>Log File  - Display size and name of log file which includes the call event. Download button downloads the log file.</li>
+<li>[Export]  - Export the event list in *.xls format.</li>
+<li>[Refresh] - Reset analysis button from View to Ready to allow re-converting of the detailed analysis.</li>
+</ul>
+<h2 id="file-list">File List</h2>
+<ul>
+<li>Floor  - Floor where the event occurred</li>
+<li>Uploaded Time  -Display the time the log file was uploaded to the server.</li>
+<li>Mobile ID - Display Mobile ID of the log file.</li>
+<li>Sequence  - Display sequential number.</li>
+<li>Scenario  - Display scenario name applied for the log file.</li>
+<li>Band   - Display frequency band of the log file</li>
+<li>status    - Display the status of the log file.<ol>
+<li>[Complete] : File converting is complete.</li>
+<li>[Error] : Converting error.</li>
+</ol>
+</li>
+<li>Number of event   - Display number of events encountered in the log file.</li>
+<li>Log File  - Display size of log file. Click [Download] button to download drx log file. Many log files in the list can be downloaded at once by selecting all log file user wants to download and clicking [Download Log Files] button in the top right corner.</li>
+<li>[Reprocess]   - Reprocesses all listed files. Report can be re-published with the reprocessed
+measurement file.</li>
+<li>[Download]    - Download selected log files in the File List at once.</li>
+<li>
+<p>[Export]  - Export log file information in .xlsx format</p>
+</li>
+<li>
+<p>[Refresh] - Refresh the data in File List. </p>
+</li>
+<li>[Delete]  - Delete selected log files. (Admin Only)</li>
+</ul>
 
 
 

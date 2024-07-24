@@ -602,6 +602,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#report-list-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      Report List Table
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -948,6 +957,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#report-list-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      Report List Table
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -971,11 +989,18 @@
 <h1 id="ibwave-mode">IBWAVE Mode</h1>
 <h2 id="report-list">Report List</h2>
 <p>Report List section displays detailed information of each report, monitors status of report file publication and manually publishes and downloads report file.</p>
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-1.png?raw=true">
+</p>
+
 <h4 id="report-status">Report Status</h4>
 <p>Report publication status is shown in bar graphs. 
-Total and Daily Report Status is shown if mouse- over the total and daily report in bar graph. (Green – Complete, Red – Fail, Navy (Default) – Waiting)</p>
+Total and Daily Report Status is shown if mouse- over the total and daily report in bar graph. </p>
+<ul>
+<li>Green – Complete, Red – Fail, Navy (Default) – Waiting</li>
+</ul>
 <p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/ProgressView/2-1-2.png?raw=true">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-2.png?raw=true">
 </p>
 
 <ul>
@@ -990,20 +1015,29 @@ Options for displaying the report include filtering by date and displaying the e
 <p>Select whether to view reports by date or the entire report</p>
 <ul>
 <li>a.    If you are looking at data by date, click radio button(red)</li>
-<li>b.    If you want to see the entire data, click radio button (blue)</li>
+<li>b.    If you want to see the entire data, click radio button (blue)
+    <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-3.png?raw=true">
+</p></li>
 </ul>
 </li>
 <li>
 <p>To search report by date</p>
 <ul>
 <li>a.    Configure date in calendar or using left and right date buttons. </li>
-<li>b.    Dates with data are marked in red in calendar(green).</li>
+<li>b.    Dates with data are marked in red in calendar(green).
+         <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-4.png?raw=true">
+</p></li>
 </ul>
 </li>
 <li>
 <p>To search entire report </p>
 <ul>
-<li>a.   Select ‘All Dates’ radio button.</li>
+<li>a.   Select ‘All Dates’ radio button.
+               <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-5.png?raw=true">
+</p></li>
 </ul>
 </li>
 <li>
@@ -1014,10 +1048,40 @@ Options for displaying the report include filtering by date and displaying the e
 <li>b.    Click on SAP_ID dropdown list, select SAP_ID, Building or Circle.</li>
 <li>c.    Click on search button to find report of specific SAP ID, Building or Circle.</li>
 <li>d.    For searches, User can enter only part of the name, instead of entering the full name.
-  Ex) SAP ID Name : I-MU-MUMB-ISC-0658 (searching like ‘0658’ possible)</li>
+  Ex) SAP ID Name : I-MU-MUMB-ISC-0658 (searching like ‘0658’ possible)
+               <p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-6.png?raw=true">
+</p></li>
 </ul>
 </li>
 </ol>
+<h4 id="report-list-table">Report List Table</h4>
+<p>Searched reports are listed up in Report List table. SAP ID columns are shown in different colors in accordance with test result of the report.</p>
+<p>Report files are downloaded and issued in Report List table.</p>
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-7.png?raw=true">
+</p>
+
+<ul>
+<li>SAP ID : SAP ID name showing in different colors in accordance with report publication status. (Green – Complete, Red – FailNavy (Default) – Waiting)
+Measurement test regions are categorized by SAP ID.</li>
+<li>Building : Display test Building Name</li>
+<li>Circle : Display test Circle</li>
+<li>Info : Displays Test Building Info, SAP ID, Building name, Address, Position, Building type, Top floor, Bottom floor, Measured, Height, Number of Small Cell, Frequency Band, File count, IBWAVE file update time and Modified time.</li>
+<li>Cycle : Number of measurement test cycle conducted for the IBWAVE mode.</li>
+<li>Band : Display test frequency band.</li>
+<li>File Cnt : Number of log file in total</li>
+<li>No of Floor : Total number of floors in the building</li>
+<li>Measured Floor : Number of measured floors in the building</li>
+<li>Upload Status : Display the report measurement status, and if the report is created for all floors, it becomes 'Complete', otherwise it is displayed as Waiting.</li>
+<li>
+<p>Report : Display the entire floor-by-floor measurement status of the corresponding SAP ID. Also, if a report is generated for even one floor, User can download the report through the Pass, Fail or In-Progress button.</p>
+</li>
+<li>
+<p>Doc : Reprocesses files that have been processed.
+Download : The analysis documents created in <em>.xls and </em>.ppt separately can be uploaded and downloaded for each Cluster. [Doc] column shows file format type if there are uploaded analysis documents. Download the uploaded analysis documents for corresponding Cluster.</p>
+</li>
+</ul>
 
 
 
