@@ -3,7 +3,8 @@ site_name: 5G Vuze Inbuilding User Manual
 theme: 
     name: material
     extra_css : 
-        - theme/custom.css 
+        - theme/custom.css
+ 
     font:
       text: Roboto   
 

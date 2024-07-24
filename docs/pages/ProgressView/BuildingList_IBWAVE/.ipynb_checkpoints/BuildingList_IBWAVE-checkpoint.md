@@ -1,6 +1,5 @@
-# Progress View 
+# Building List(IBWAVE)
 
-## Building List(IBWAVE)
 To display the test progress rate of the building compared to the total project in Server. The progress rate is displayed in Table and pie graph. User can check the status of each project and view the overall measurement progress of the project in the Pie graph at the bottom.
 
 - To search IBWAVE building report Status
