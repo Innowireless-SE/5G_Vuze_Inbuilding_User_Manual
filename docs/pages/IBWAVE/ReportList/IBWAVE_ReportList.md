@@ -8,7 +8,7 @@ Report List section displays detailed information of each report, monitors statu
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-1.png?raw=true">
 </p>
 
-#### Report Status
+### Report Status
 
 Report publication status is shown in bar graphs. 
 Total and Daily Report Status is shown if mouse- over the total and daily report in bar graph. 
@@ -25,7 +25,7 @@ Total and Daily Report Status is shown if mouse- over the total and daily report
 - b.	Daily : Initial screen displays report publication statistics of today. When searching based on date, report statistics on the date is displayed.
 
 
-#### Searching Report
+### Searching Report
 
 Reports are searched by Date, SAP ID, Building or Circle 
 Options for displaying the report include filtering by date and displaying the entire report. Select the radio button to see reports by date or the entire report. the filtered reports are listed up in Report List.
@@ -64,7 +64,7 @@ Options for displaying the report include filtering by date and displaying the e
 </figure>
 
 
-#### Report List Table
+### Report List Table
 
 Searched reports are listed up in Report List table. SAP ID columns are shown in different colors in accordance with test result of the report.
 
@@ -74,21 +74,37 @@ Report files are downloaded and issued in Report List table.
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-7.png?raw=true">
 </p>
 
-- SAP ID : SAP ID name showing in different colors in accordance with report publication status. (Green – Complete, Red – FailNavy (Default) – Waiting)
+#### SAP ID 
+SAP ID name showing in different colors in accordance with report publication status. (Green – Complete, Red – FailNavy (Default) – Waiting)
 Measurement test regions are categorized by SAP ID.
-- Building : Display test Building Name
-- Circle : Display test Circle
-- Info : Displays Test Building Info, SAP ID, Building name, Address, Position, Building type, Top floor, Bottom floor, Measured, Height, Number of Small Cell, Frequency Band, File count, IBWAVE file update time and Modified time.
-- Cycle : Number of measurement test cycle conducted for the IBWAVE mode.
-- Band : Display test frequency band.
-- File Cnt : Number of log file in total
-- No of Floor : Total number of floors in the building
-- Measured Floor : Number of measured floors in the building
-- Upload Status : Display the report measurement status, and if the report is created for all floors, it becomes 'Complete', otherwise it is displayed as Waiting.
-- Report : Display the entire floor-by-floor measurement status of the corresponding SAP ID. Also, if a report is generated for even one floor, User can download the report through the Pass, Fail or In-Progress button.
+#### Building
+Display test Building Name
+#### Circle
+Display test Circle
+#### Info 
+Displays Test Building Info, SAP ID, Building name, Address, Position, Building type, Top floor, Bottom floor, Measured, Height, Number of Small Cell, Frequency Band, File count, IBWAVE file update time and Modified time.
+#### Cycle 
+Number of measurement test cycle conducted for the IBWAVE mode.
+#### Band 
+Display test frequency band.
+#### File Cnt 
+Number of log file in total
+#### No of Floor 
+Total number of floors in the building
+#### Measured Floor 
+Number of measured floors in the building
+#### Upload Status 
+Display the report measurement status, and if the report is created for all floors, it becomes 'Complete', otherwise it is displayed as Waiting.
+#### Report
+Display the entire floor-by-floor measurement status of the corresponding SAP ID. Also, if a report is generated for even one floor, User can download the report through the Pass, Fail or In-Progress button.
 
-- Doc : Reprocesses files that have been processed.
-Download : The analysis documents created in *.xls and *.ppt separately can be uploaded and downloaded for each Cluster. [Doc] column shows file format type if there are uploaded analysis documents. Download the uploaded analysis documents for corresponding Cluster.
+#### Publish Report
+A button to manually generate a report is displayed, and the progress of report generation can be checked in the Report column.
 
+#### Doc 
+Display *.xls and *.ppt files that have been uploaded. If User uploaded an Excel file, the DOC column will display 'E', and if User uploaded a PPT file, it will display 'P'.
+
+#### Download 
+The analysis documents created in *.xls and *.ppt separately can be uploaded and downloaded for each Cluster. `Doc` column shows file format type if there are uploaded analysis documents. Download the uploaded analysis documents for corresponding Cluster.
 
 

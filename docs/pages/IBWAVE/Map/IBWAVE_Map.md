@@ -35,16 +35,15 @@ Displaying measurement data of selected report from Report List in digital/satel
 - <p align="left">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/button.png?raw=true">  - Layer Setting
 </p>
-Enlarge Layer Setting panel at top left corner of Map screen, click the small blue arrow icon.
+
 
 - <p align="left">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/display%20setting.png?raw=true">  - Display Setting 
 </p>
-Measurement data are displayed in map in accordance with Legend setting in various colors for each data ranges. The configured Legend setting is saved and managed by user account.
 
 
 - <p align="left">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Refresh.png?raw=true">  - Refresh Floor planReport
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Refresh.png?raw=true">  - Refresh Floor plan
 </p>
 
 
@@ -106,7 +105,7 @@ Activated only when Parameter option is selected and the data are displayed in M
 Measurement data are displayed in map in accordance with Legend setting in various colors for each data ranges. The configured Legend setting is saved and managed by user account.
 
 <figure markdown="span">
-  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-3-7.png?raw=true/600x400/){ width="600"  }
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-10.png?raw=true/600x400/){ width="600"  }
   <figcaption></figcaption>
 </figure>
 

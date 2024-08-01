@@ -4,10 +4,11 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-4.png?raw=true">
-</p>
-######<center>[Forget Password]</center>  
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-4.png?raw=true/600x400/){ width="300"  }
+  <figcaption></figcaption>
+</figure>
+
 
 
 
