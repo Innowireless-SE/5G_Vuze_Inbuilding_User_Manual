@@ -23,13 +23,86 @@ Displaying measurement data of selected report from Report List in digital/satel
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Building4.png?raw=true">  - Not selected Complete Report
 </p>
 
+#### 2. MAP ICON
+
+
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/switch%20button.png?raw=true">  - Switch road map or satellite map.
+</p>
 
 
 
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/button.png?raw=true">  - Layer Setting
+</p>
+Enlarge Layer Setting panel at top left corner of Map screen, click the small blue arrow icon.
 
-## Project layout
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/display%20setting.png?raw=true">  - Display Setting 
+</p>
+Measurement data are displayed in map in accordance with Legend setting in various colors for each data ranges. The configured Legend setting is saved and managed by user account.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Refresh.png?raw=true">  - Refresh Floor planReport
+</p>
+
+
+### Layer Setting 
+
+Layer Setting selects items to be displayed in map screen. To enlarge Layer Setting panel at top left corner of Map screen, click the small blue arrow icon.
+
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-4.png?raw=true/600x400/){ width="300"  }
+  <figcaption></figcaption>
+</figure>
+
+#### Legend 
+Display data range of parameter or offset parameter or call event names. Call events and Parameter data are displayed in different colors for each data ranges as configured.
+Legend boxes are placed at lower bottom in Map screen. 'Setting' icon at the top right corner inside the legend box shows or hides call events or data range
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-5.png?raw=true/600x400/){ width="200"  }
+  <figcaption></figcaption>
+</figure>
+
+#### Event
+Display Call Event icons in different colors on the event locations in map.
+
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-6.png?raw=true/600x400/){ width="200"  }
+  <figcaption></figcaption>
+</figure>
+
+
+#### Call Model 
+Select a call model to display the measurement data of all or each call scenario.
+
+
+#### Parameter 
+Select a parameter from the parameter combo box to display parameter data in map in accordance with Legend setting.
+
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-7.png?raw=true/600x400/){ width="200"  }
+  <figcaption></figcaption>
+</figure>
+
+#### Para.Offset
+Activated only when Parameter option is selected and the data are displayed in Map.
+
+
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-8.png?raw=true/600x400/){ width="200"  }
+  <figcaption></figcaption>
+</figure>
+
+
+
+### Display Setting 
+
+Measurement data are displayed in map in accordance with Legend setting in various colors for each data ranges. The configured Legend setting is saved and managed by user account.
+
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-2-3.png?raw=true/600x400/){ width="200"  }
+  <figcaption></figcaption>
+</figure>
+
