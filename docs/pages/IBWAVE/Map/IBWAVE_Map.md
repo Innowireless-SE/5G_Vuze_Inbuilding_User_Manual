@@ -8,29 +8,22 @@ Displaying measurement data of selected report from Report List in digital/satel
 #### 1. Building Icon
 
 - <p align="left">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/%EA%B5%AC%EC%84%B1%20%EC%9A%94%EC%86%8C%20150%20%E2%80%93%201@2x.png?raw=true">  - Selected Waiting Report
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Building1.png?raw=true">  - Selected Waiting Report
 </p>
-  displays Seleceted SAP id and mean not generated Report
-
 
  - <p align="left">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/bbbbbbb.png?raw=true">  - Building icon
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Building2.png?raw=true">  - Not selected waiting Report 
 </p>
 
-<p align="left">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/%EA%B5%AC%EC%84%B1%20%EC%9A%94%EC%86%8C%20150%20%E2%80%93%201@3x.png?raw=true">  - Building icon
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Building3.png?raw=true">  - Selected Complete Report
 </p>
 
-<p align="left">
-  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/%EA%B5%AC%EC%84%B1%20%EC%9A%94%EC%86%8C%20150%20%E2%80%93%201.png?raw=true">  - Building icon
+- <p align="left">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/Building4.png?raw=true">  - Not selected Complete Report
 </p>
 
 
-
-<figure markdown="span">
-  ![Image titlehttps://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/%EA%B5%AC%EC%84%B1%20%EC%9A%94%EC%86%8C%20150%20%E2%80%93%201.png?raw=true){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
 
 
 
