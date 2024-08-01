@@ -13,15 +13,7 @@ On the Dashboard, User can check the overall monthly IBWAVE/DAS report status an
 
 <br>
 
-<figure markdown="span">
-  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-2.png?raw=true/600x400/){ width="300"  }
-  <figcaption>Image caption</figcaption>
-</figure>
 
-
-
-
-<br>
 
 1.	To search report by month
       <p align="center">

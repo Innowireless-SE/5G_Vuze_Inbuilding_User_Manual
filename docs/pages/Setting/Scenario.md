@@ -13,13 +13,13 @@ To display the currently applied scenario for log measurement and displays the f
 
 - Current Scenario - 	Display Current applied scenario file at the top of the Scenario tab.
 
-  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-2.png?raw=true/eee/aaa){ align=right width="200"  }
+
 
 - [History]	- The history of applied scenarios is displayed in most recent order.
 
 <figure markdown="span">
-  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-2.png?raw=true/600x400/){ width="300"  }
-  <figcaption>Scenario History</figcaption>
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-2.png?raw=true/600x400/){ width="400"  }
+  <figcaption></figcaption>
 </figure>
 
 
@@ -32,11 +32,12 @@ To display the currently applied scenario for log measurement and displays the f
 	4. Check in the Scenario list whether the selected .call file has been uploaded or not.
        
 <figure markdown="span">
-  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-3.png?raw=true/600x400/){ width="300"  }
-  <figcaption>File Upload</figcaption>
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-3.png?raw=true/600x400/){ width="400"  }
+  <figcaption></figcaption>
 </figure>
 
- 
+
+
 
 - Time	- The Time column is the time when the first scenario file was uploaded.
 - File Name	- File Name is the file name of the uploaded file.
@@ -44,4 +45,9 @@ To display the currently applied scenario for log measurement and displays the f
 - [Download]	- Users can download scenarios from uploaded scenario list.
 - [Delete]	- Users can delete scenarios from uploaded scenario list.
 - Memo	- Users can write a memo when uploading a new scenario.
+<figure markdown="span">
+  ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-4.png?raw=true/600x400/){ width="400"  }
+  <figcaption></figcaption>
+</figure>
+
  
