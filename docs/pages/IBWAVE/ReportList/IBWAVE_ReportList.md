@@ -30,33 +30,37 @@ Total and Daily Report Status is shown if mouse- over the total and daily report
 Reports are searched by Date, SAP ID, Building or Circle 
 Options for displaying the report include filtering by date and displaying the entire report. Select the radio button to see reports by date or the entire report. the filtered reports are listed up in Report List.
 
-1. Select whether to view reports by date or the entire report
-    - a.	If you are looking at data by date, click radio button(red)
-    - b.	If you want to see the entire data, click radio button (blue)
+#### 1. Select whether to view reports by date or the entire report
+- a.	If you are looking at data by date, click radio button(red)
+- b.	If you want to see the entire data, click radio button (blue)
+- 
 <figure markdown="span">
   ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-3.png?raw=true/600x400/){ width="500"  }
   <figcaption></figcaption>
 </figure>
-2. To search report by date
-    - a.	Configure date in calendar or using left and right date buttons. 
-    - b.	Dates with data are marked in red in calendar(green).
+
+#### 2. To search report by date
+- a.	Configure date in calendar or using left and right date buttons. 
+- b.	Dates with data are marked in red in calendar(green).
+    
 <figure markdown="span">
   ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-4.png?raw=true/600x400/){ width="500"  }
   <figcaption></figcaption>
 </figure>
 
-3. To search entire report 
-     - a.	Select ‘All Dates’ radio button.
+#### 3. To search entire report 
+- a.	Select ‘All Dates’ radio button.
 <figure markdown="span">
   ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-5.png?raw=true/600x400/){ width="500"  }
   <figcaption></figcaption>
 </figure>
-4. To search report by SAP_ID, Building, or Circle.
-    - a.	After selecting whether to view the report by date or the entire report,
+
+#### 4. To search report by SAP_ID, Building, or Circle.
+- a.	After selecting whether to view the report by date or the entire report,
       User can search by searching for the name of SAP_ID, Building, or Circle.
-    - b.	Click on SAP_ID dropdown list, select SAP_ID, Building or Circle.
-    - c.	Click on search button to find report of specific SAP ID, Building or Circle.
-    - d.	For searches, User can enter only part of the name, instead of entering the full name.
+- b.	Click on SAP_ID dropdown list, select SAP_ID, Building or Circle.
+- c.	Click on search button to find report of specific SAP ID, Building or Circle.
+- d.	For searches, User can enter only part of the name, instead of entering the full name.
       Ex) SAP ID Name : I-MU-MUMB-ISC-0658 (searching like ‘0658’ possible)
 <figure markdown="span">
   ![Image title](https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/IBWAVE/3-1-6.png?raw=true/600x400/){ width="500"  }

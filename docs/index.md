@@ -1,6 +1,6 @@
 # Welcome to XCAP-Vuze 5G Inbuilding
 
-<span style="color:red">5G Inbuilding Web Site</span> : [5G Vuze Inbuilding](https://183.99.50.31:13201/)
+<span style="color:red">5G Inbuilding Web Site</span> : [183.99.50.31:13201](https://183.99.50.31:13201/)
 
 
 ## 5G Vuze Inbuilding

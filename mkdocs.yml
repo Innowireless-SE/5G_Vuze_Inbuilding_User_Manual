@@ -5,27 +5,32 @@ markdown_extensions:
   - md_in_html
 
 plugins:
-  - glightbox    
+  - glightbox  # 이미지 줌아웃 
 
 
 
 theme: 
-    name: material
-    logo: images/logo.png   
+    name: material # 테마 버전 
+    logo: images/logo.png   #Jio 로고
     extra_css : 
         - theme/custom.css
+    
     font:
       text: Roboto   
+    
     palette:
-      scheme: default
       primary: cyan
       accent: deep purple
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 
-
-
-
-
+        
 nav :
   - Introduction : index.md
   - Get Started :
