@@ -14,7 +14,12 @@ theme:
     logo: images/logo.png   #Jio 로고
     extra_css : 
         - theme/custom.css
-    
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky  
+        - navigation.tracking
+        - navigation.sections
+        
     font:
       text: Roboto   
     
@@ -27,6 +32,7 @@ theme:
         name: Switch to dark mode
       toggle:
         icon: material/brightness-4
+ 
         name: Switch to light mode
 
 
