@@ -1,40 +1,50 @@
 site_name: 5G Vuze Inbuilding User Manual
 
 markdown_extensions:
+  - abbr
   - attr_list
   - md_in_html
-
+  - pymdownx.snippets
+  
 plugins:
   - glightbox  # 이미지 줌아웃 
-
+  - search
 
 
 theme: 
-    name: material # 테마 버전 
-    logo: images/logo.png   #Jio 로고
-    extra_css : 
+  name: material # 테마 버전 
+  logo: images/logo.png   #Jio 로고
+  extra_css : 
         - theme/custom.css
-    features:
-        - navigation.tabs
-        - navigation.tabs.sticky  
-        - navigation.tracking
-        - navigation.sections
-        
-    font:
-      text: Roboto   
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky  
+    - navigation.tracking
+    - navigation.sections
+    - search.suggest 
+    - search.highlight
+    - search.share
+
+
+
+
     
-    palette:
+  font:
+     text: Roboto   
+
+  palette:
+    - scheme: default
       primary: cyan
       accent: deep purple
-      scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/toggle-switch
         name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/brightness-4
- 
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
-
 
         
 nav :

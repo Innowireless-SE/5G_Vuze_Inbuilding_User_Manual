@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-1.png?raw=true">
 </p>
-######<center>[Log-in Page]</center>  
-
 
 ## Web Main Window
 There are Progress View, IBWAVE Mode, DAS Mode, Monitoring, Setting, User Manager and Configuration tabs at the top.
@@ -24,10 +22,8 @@ Some features are not available to control depending on Role type
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/GetStarted/1-0.png?raw=true">
 </p>
 
-######<center>[The creation of user account]</center>  
-
 <center> 
-
+ 
 | Tab |	Description |
 |:----------:|:----------|
 |Progress View|	Monitor and analyze city-wide data with optimization report.|
@@ -41,6 +37,7 @@ Some features are not available to control depending on Role type
 |User Manual|	Download user manual and release note.|
 |User Info|	Display user account information of currently logged in.|
 |Log out|	To log out the current account.|
+
 </center>
 
 
