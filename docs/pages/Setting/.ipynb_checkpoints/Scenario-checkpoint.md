@@ -10,8 +10,6 @@ To display the currently applied scenario for log measurement and displays the f
 
 
 
-
-
 - Current Scenario - 	Display Current applied scenario file at the top of the Scenario tab.
 
 
