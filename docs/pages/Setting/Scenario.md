@@ -8,12 +8,21 @@ To display the currently applied scenario for log measurement and displays the f
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6-1-1.png?raw=true">
 </p>
 
+
 <p align="center">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/5.png?raw=true">
 </p>
 
 <p align="center">
   <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/6.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/7.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Innowireless-SE/5G_Vuze_Inbuilding_User_Manual/blob/master/docs/images/Setting/8.png?raw=true">
 </p>
 
 
